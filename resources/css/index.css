@@ -1,0 +1,39 @@
+/* Universal code */
+* {
+  background-image: url("http://hdwpro.com/wp-content/uploads/2017/11/Free-Desktop-Background.jpeg");
+  color: White;
+  font-family: "MarkerFelt";
+}
+
+/* Header Section */
+
+.header-list {
+  display: inline;
+  float: right;
+  padding: 10px 10px;
+}
+
+
+/* Body Section */
+
+h2 {
+ font-size: 32px;
+}
+
+
+p {
+  font-size: 20px;
+  }
+
+.duckface {
+
+}
+
+/* Footer Section */
+
+.footer-list {
+  display: block;
+  text-align: center;
+  align-items: center;
+  list-style-type: none;
+}
